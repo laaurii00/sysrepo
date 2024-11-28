@@ -1,0 +1,237 @@
+[
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/sysrepo.c.o -c /home/netconf/sysrepo/src/sysrepo.c",
+  "file": "/home/netconf/sysrepo/src/sysrepo.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/common.c.o -c /home/netconf/sysrepo/src/common.c",
+  "file": "/home/netconf/sysrepo/src/common.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/ly_wrap.c.o -c /home/netconf/sysrepo/src/ly_wrap.c",
+  "file": "/home/netconf/sysrepo/src/ly_wrap.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/subscr.c.o -c /home/netconf/sysrepo/src/subscr.c",
+  "file": "/home/netconf/sysrepo/src/subscr.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/log.c.o -c /home/netconf/sysrepo/src/log.c",
+  "file": "/home/netconf/sysrepo/src/log.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/replay.c.o -c /home/netconf/sysrepo/src/replay.c",
+  "file": "/home/netconf/sysrepo/src/replay.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/modinfo.c.o -c /home/netconf/sysrepo/src/modinfo.c",
+  "file": "/home/netconf/sysrepo/src/modinfo.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/edit_diff.c.o -c /home/netconf/sysrepo/src/edit_diff.c",
+  "file": "/home/netconf/sysrepo/src/edit_diff.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/lyd_mods.c.o -c /home/netconf/sysrepo/src/lyd_mods.c",
+  "file": "/home/netconf/sysrepo/src/lyd_mods.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/context_change.c.o -c /home/netconf/sysrepo/src/context_change.c",
+  "file": "/home/netconf/sysrepo/src/context_change.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/shm_main.c.o -c /home/netconf/sysrepo/src/shm_main.c",
+  "file": "/home/netconf/sysrepo/src/shm_main.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/shm_ext.c.o -c /home/netconf/sysrepo/src/shm_ext.c",
+  "file": "/home/netconf/sysrepo/src/shm_ext.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/shm_mod.c.o -c /home/netconf/sysrepo/src/shm_mod.c",
+  "file": "/home/netconf/sysrepo/src/shm_mod.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/shm_sub.c.o -c /home/netconf/sysrepo/src/shm_sub.c",
+  "file": "/home/netconf/sysrepo/src/shm_sub.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/sr_cond/sr_cond_futex.c.o -c /home/netconf/sysrepo/src/sr_cond/sr_cond_futex.c",
+  "file": "/home/netconf/sysrepo/src/sr_cond/sr_cond_futex.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/plugins/ds_json.c.o -c /home/netconf/sysrepo/src/plugins/ds_json.c",
+  "file": "/home/netconf/sysrepo/src/plugins/ds_json.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/plugins/ntf_json.c.o -c /home/netconf/sysrepo/src/plugins/ntf_json.c",
+  "file": "/home/netconf/sysrepo/src/plugins/ntf_json.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/plugins/common_json.c.o -c /home/netconf/sysrepo/src/plugins/common_json.c",
+  "file": "/home/netconf/sysrepo/src/plugins/common_json.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/utils/values.c.o -c /home/netconf/sysrepo/src/utils/values.c",
+  "file": "/home/netconf/sysrepo/src/utils/values.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/utils/xpath.c.o -c /home/netconf/sysrepo/src/utils/xpath.c",
+  "file": "/home/netconf/sysrepo/src/utils/xpath.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/utils/error_format.c.o -c /home/netconf/sysrepo/src/utils/error_format.c",
+  "file": "/home/netconf/sysrepo/src/utils/error_format.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/utils/nacm.c.o -c /home/netconf/sysrepo/src/utils/nacm.c",
+  "file": "/home/netconf/sysrepo/src/utils/nacm.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/utils/subscribed_notifications.c.o -c /home/netconf/sysrepo/src/utils/subscribed_notifications.c",
+  "file": "/home/netconf/sysrepo/src/utils/subscribed_notifications.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/utils/sn_common.c.o -c /home/netconf/sysrepo/src/utils/sn_common.c",
+  "file": "/home/netconf/sysrepo/src/utils/sn_common.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/src/utils/sn_yang_push.c.o -c /home/netconf/sysrepo/src/utils/sn_yang_push.c",
+  "file": "/home/netconf/sysrepo/src/utils/sn_yang_push.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -fvisibility=hidden -o CMakeFiles/srobj.dir/compat/compat.c.o -c /home/netconf/sysrepo/compat/compat.c",
+  "file": "/home/netconf/sysrepo/compat/compat.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepoctl.dir/src/executables/sysrepoctl.c.o -c /home/netconf/sysrepo/src/executables/sysrepoctl.c",
+  "file": "/home/netconf/sysrepo/src/executables/sysrepoctl.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepoctl.dir/compat/compat.c.o -c /home/netconf/sysrepo/compat/compat.c",
+  "file": "/home/netconf/sysrepo/compat/compat.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepocfg.dir/src/executables/sysrepocfg.c.o -c /home/netconf/sysrepo/src/executables/sysrepocfg.c",
+  "file": "/home/netconf/sysrepo/src/executables/sysrepocfg.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepocfg.dir/compat/compat.c.o -c /home/netconf/sysrepo/compat/compat.c",
+  "file": "/home/netconf/sysrepo/compat/compat.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepo-plugind.dir/src/executables/srpd_rotation.c.o -c /home/netconf/sysrepo/src/executables/srpd_rotation.c",
+  "file": "/home/netconf/sysrepo/src/executables/srpd_rotation.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepo-plugind.dir/src/executables/srpd_oper_poll_diff.c.o -c /home/netconf/sysrepo/src/executables/srpd_oper_poll_diff.c",
+  "file": "/home/netconf/sysrepo/src/executables/srpd_oper_poll_diff.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepo-plugind.dir/src/executables/srpd_common.c.o -c /home/netconf/sysrepo/src/executables/srpd_common.c",
+  "file": "/home/netconf/sysrepo/src/executables/srpd_common.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepo-plugind.dir/src/executables/sysrepo-plugind.c.o -c /home/netconf/sysrepo/src/executables/sysrepo-plugind.c",
+  "file": "/home/netconf/sysrepo/src/executables/sysrepo-plugind.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sysrepo-plugind.dir/compat/compat.c.o -c /home/netconf/sysrepo/compat/compat.c",
+  "file": "/home/netconf/sysrepo/compat/compat.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/application_changes_example.dir/application_changes_example.c.o -c /home/netconf/sysrepo/examples/application_changes_example.c",
+  "file": "/home/netconf/sysrepo/examples/application_changes_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sr_set_item_example.dir/sr_set_item_example.c.o -c /home/netconf/sysrepo/examples/sr_set_item_example.c",
+  "file": "/home/netconf/sysrepo/examples/sr_set_item_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/sr_get_items_example.dir/sr_get_items_example.c.o -c /home/netconf/sysrepo/examples/sr_get_items_example.c",
+  "file": "/home/netconf/sysrepo/examples/sr_get_items_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/notif_subscribe_example.dir/notif_subscribe_example.c.o -c /home/netconf/sysrepo/examples/notif_subscribe_example.c",
+  "file": "/home/netconf/sysrepo/examples/notif_subscribe_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/notif_send_example.dir/notif_send_example.c.o -c /home/netconf/sysrepo/examples/notif_send_example.c",
+  "file": "/home/netconf/sysrepo/examples/notif_send_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/rpc_send_example.dir/rpc_send_example.c.o -c /home/netconf/sysrepo/examples/rpc_send_example.c",
+  "file": "/home/netconf/sysrepo/examples/rpc_send_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/rpc_subscribe_example.dir/rpc_subscribe_example.c.o -c /home/netconf/sysrepo/examples/rpc_subscribe_example.c",
+  "file": "/home/netconf/sysrepo/examples/rpc_subscribe_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/oper_data_pull_example.dir/oper_data_pull_example.c.o -c /home/netconf/sysrepo/examples/oper_data_pull_example.c",
+  "file": "/home/netconf/sysrepo/examples/oper_data_pull_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/oper_data_push_example.dir/oper_data_push_example.c.o -c /home/netconf/sysrepo/examples/oper_data_push_example.c",
+  "file": "/home/netconf/sysrepo/examples/oper_data_push_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/oper_pull_push_example.dir/oper_pull_push_example.c.o -c /home/netconf/sysrepo/examples/oper_pull_push_example.c",
+  "file": "/home/netconf/sysrepo/examples/oper_pull_push_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc  -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIE -o CMakeFiles/oper_data_poll_example.dir/oper_data_poll_example.c.o -c /home/netconf/sysrepo/examples/oper_data_poll_example.c",
+  "file": "/home/netconf/sysrepo/examples/oper_data_poll_example.c"
+},
+{
+  "directory": "/home/netconf/sysrepo/build/examples",
+  "command": "/usr/bin/cc -Doven_EXPORTS -I/home/netconf/sysrepo/build/compat -I/home/netconf/sysrepo/src -I/home/netconf/sysrepo/src/plugins -I/home/netconf/sysrepo/build -g -O0  -Wall -Wextra -Wpedantic -std=c11 -g -fPIC -o CMakeFiles/oven.dir/plugin/oven.c.o -c /home/netconf/sysrepo/examples/plugin/oven.c",
+  "file": "/home/netconf/sysrepo/examples/plugin/oven.c"
+}
+]
